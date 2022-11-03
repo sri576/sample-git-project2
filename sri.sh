@@ -13,5 +13,5 @@ git status -s
 git commit -m 'developer created this files '
 git status -s
 
-git remote add origin 43.204.35.88 https://github.com/sri576/sample-git-project2.git
+git remote add origin https://github.com/sri576/sample-git-project2.git
 
