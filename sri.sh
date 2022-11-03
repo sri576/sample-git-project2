@@ -15,7 +15,12 @@ git commit -m 'developer created this files '
 git status -s
 
 git remote add origin https://github.com/sri576/sample-git-project2.git
-
+git pull origin master
+git status -s
+git add .
+git status -s
+git commit -m 'developer push code into local repository'
+git status -s
 git push origin master
 
 git status -s
