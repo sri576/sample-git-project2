@@ -17,3 +17,10 @@ git status -s
 git remote add origin https://github.com/sri576/sample-git-project2.git
 
 git push origin manster 
+
+Username for 'https://github.com': sri576
+Password for 'https://github.com': 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
+
+git status -s
+
+
