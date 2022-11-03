@@ -16,6 +16,8 @@ git status -s
 
 git remote add origin https://github.com/sri576/sample-git-project2.git
 git pull origin master
+git config pull.rebase true
+git rebase --skip
 git status -s
 git add .
 git status -s
