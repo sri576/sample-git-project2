@@ -1,6 +1,7 @@
 git init
 mkdir srinu
-
+touch newfile
+git status -s 
 touch file1
 cp /root/sri/file1 /root/sri/srikanth/file2
 cp /root/sri/file1 /root/sri/srikanth/file3
@@ -15,3 +16,4 @@ git status -s
 
 git remote add origin https://github.com/sri576/sample-git-project2.git
 
+git push origin manster 
